@@ -13,8 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-room-29-najma-and-sam/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room-29-najma-and-sam#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room-29-najma-and-sam#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
